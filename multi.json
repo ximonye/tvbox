@@ -1,8 +1,8 @@
 {
     "storeHouse": [
         {
-            "sourceName": "🐧网络优选仓",
-            "sourceUrl": "https://cdn.jsdelivr.net/gh/ximonye/tvbox@main/self.json"
+            "sourceName": "🐧网络优选",
+            "sourceUrl": "https://raw.githubusercontents.com/ximonye/tvbox/main/self.json"
         },
         {
             "sourceName": "🍀一木多仓🍀",
