@@ -1,18 +1,6 @@
 {
     "urls": [
         {
-            "name": "🐶二哈优选",
-            "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json"
-        },
-        {
-            "name": "🐶二哈小雅",
-            "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/xiaoya.json"
-        },
-        {
-            "name": "🐋蓝鲸",
-            "url": "https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt"
-        },
-        {
             "name": "🎎最全短剧",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
